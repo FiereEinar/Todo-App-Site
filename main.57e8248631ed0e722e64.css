@@ -94,6 +94,7 @@ body {
 
 .sidebar + .active > div > * {
     padding: 0 5px;
+    border-radius: 5px;
 }
 
 .sidebar + .active > .description > textarea {

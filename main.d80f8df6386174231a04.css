@@ -206,7 +206,7 @@ body {
     flex-wrap: wrap;
     width: 100%;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
     gap: 5px;
     border-radius: 5px;
     padding: 2px 5px;  
